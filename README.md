@@ -1,4 +1,4 @@
-# MongoDB and Express Setup Assignment
+# Setting Up MongoDB and Connecting MongoDB using Mongoose with Express
 
 This README provides instructions to set up and run the server for the assignment, including connecting to MongoDB using the MongoDB shell.
 
