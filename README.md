@@ -51,8 +51,7 @@ mongosh
 ```bash
 node app.js
 ```
-
-2. The server will run on `http://localhost:3000` by default.
+_The server will run on `http://localhost:3000` by default._
 
 ---
 
